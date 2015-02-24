@@ -1,0 +1,8 @@
+C:\Users\Mohamed\AppData\Local\Temporary Projects\Tasks\bin\Debug\ToDoList.exe
+C:\Users\Mohamed\AppData\Local\Temporary Projects\Tasks\bin\Debug\ToDoList.pdb
+C:\Users\Mohamed\AppData\Local\Temporary Projects\Tasks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohamed\AppData\Local\Temporary Projects\Tasks\obj\x86\Debug\ToDoList.Properties.Resources.resources
+C:\Users\Mohamed\AppData\Local\Temporary Projects\Tasks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mohamed\AppData\Local\Temporary Projects\Tasks\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mohamed\AppData\Local\Temporary Projects\Tasks\obj\x86\Debug\ToDoList.exe
+C:\Users\Mohamed\AppData\Local\Temporary Projects\Tasks\obj\x86\Debug\ToDoList.pdb
